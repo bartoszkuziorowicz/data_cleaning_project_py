@@ -1,0 +1,17 @@
+﻿CustomerID,Name,Age,Region,Category,Quantity,UnitPrice
+1,Anna,29,North,Electronics,3,1200
+2,Bartek,34,East,Furniture,1,2500
+3,Celina,,West,Electronics,5,600
+4,Jerzy,41,South,Clothing,2,800
+5,Damian,27,North,Electronics,4,1000
+6,Ewa,31,,Clothing,3,500
+7,Filip,28,East,,2,2000
+8,Gosia,45,West,Furniture,1,3000
+9,Andrzej,39,North,Electronics,6,700
+,,,,,,
+10,Hania,,South,Clothing,2,1500
+11,Irek,33,East,Furniture,3,1200
+12,Justyna,37,,Electronics,4,1100
+13,Kamil,29,North,Electronics,2,2200
+14,Lena,26,South,Furniture,1,2500
+15,Marek,38,West,Clothing,5,900
